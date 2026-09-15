@@ -1,0 +1,1001 @@
+patient_id,first_name,last_name,gender,birth_date,city,province_id,allergies,height,weight
+1,Ava,Harris,F,1938-06-15,Quebec City,QC,None,150,99
+2,Carter,Williams,M,1999-01-15,New Glasgow,NS,None,156,115
+3,Emma,Perez,F,1950-07-22,Whitehorse,YT,None,161,59
+4,Jacob,Wilson,M,1958-05-19,Moncton,NB,None,196,78
+5,Chloe,Harris,F,1962-01-21,St. John's,NL,None,159,126
+6,Samuel,Martin,M,1965-09-09,Surrey,BC,Aspirin,174,112
+7,Emma,Martin,F,1988-02-29,Moncton,NB,Sulfa,199,91
+8,Jacob,Davis,M,1940-05-24,Medicine Hat,AB,Sulfa,145,107
+9,Ava,Harris,F,1952-07-25,Kelowna,BC,Milk,200,115
+10,Lucas,Rodriguez,M,2005-12-03,Medicine Hat,AB,None,184,70
+11,Evelyn,Gonzalez,F,1997-01-01,Dieppe,NB,Sulfa,155,73
+12,Ethan,Hernandez,M,1933-10-10,Charlottetown,PE,None,154,45
+13,Ava,Thompson,F,1940-07-25,Calgary,AB,Penicillin,195,87
+14,Ethan,Taylor,M,1972-09-14,Thompson,MB,Latex,174,61
+15,Madison,Jackson,F,2014-10-23,Lethbridge,AB,Eggs,152,57
+16,Mason,Perez,M,2007-05-06,Moose Jaw,SK,Eggs,169,51
+17,Sophia,Johnson,F,2002-03-30,Yellowknife,NT,Sulfa,155,69
+18,Jackson,Moore,M,2010-06-30,Burnaby,BC,Aspirin,157,104
+19,Amelia,Ramirez,F,1943-07-12,Moncton,NB,Penicillin,181,114
+20,Liam,Williams,M,1972-05-31,Burnaby,BC,Milk,170,72
+21,Aria,Lewis,F,1940-07-09,Burnaby,BC,Penicillin,164,78
+22,Daniel,Martinez,M,2005-11-25,Yellowknife,NT,Aspirin,152,82
+23,Charlotte,Johnson,F,1940-12-08,Yellowknife,NT,Penicillin,143,119
+24,Matthew,Taylor,M,1958-04-01,Mississauga,ON,Sulfa,194,68
+25,Ava,Martin,F,1942-03-12,Whitehorse,YT,Eggs,147,117
+26,Aiden,Jackson,M,1937-02-17,Charlottetown,PE,Eggs,182,119
+27,Madison,Taylor,F,1986-10-07,Brandon,MB,None,185,85
+28,Aiden,Rodriguez,M,2001-01-06,Kelowna,BC,None,159,103
+29,Luna,Robinson,F,1943-01-07,London,ON,None,176,57
+30,Ethan,Moore,M,1968-03-31,Corner Brook,NL,Aspirin,199,89
+31,Ava,Lewis,F,1973-10-31,Prince Albert,SK,Aspirin,168,114
+32,Jacob,Martin,M,1931-05-28,Whitehorse,YT,None,146,62
+33,Harper,Brown,F,1949-03-16,Yellowknife,NT,Peanuts,158,122
+34,Jackson,Thompson,M,1991-07-11,Red Deer,AB,None,171,77
+35,Olivia,Williams,F,2006-01-01,Winnipeg,MB,Penicillin,161,61
+36,Oliver,Garcia,M,2009-04-12,Mount Pearl,NL,Eggs,175,46
+37,Sophia,Williams,F,1956-09-29,St. John's,NL,Shellfish,177,115
+38,Logan,Wilson,M,1952-11-13,Hamilton,ON,Shellfish,197,50
+39,Camila,Miller,F,1974-10-10,Whitehorse,YT,Shellfish,189,116
+40,Alexander,Martin,M,1957-09-24,Edmonton,AB,Aspirin,196,97
+41,Emma,Garcia,F,1989-08-09,Iqaluit,NU,None,195,76
+42,Oliver,Garcia,M,1949-05-25,Halifax,NS,Milk,154,70
+43,Scarlett,Lopez,F,1984-10-04,Iqaluit,NU,Latex,141,129
+44,Jackson,Gonzalez,M,1988-11-24,Winnipeg,MB,Peanuts,162,127
+45,Chloe,Gonzalez,F,1989-06-02,Toronto,ON,Peanuts,151,119
+46,Oliver,Johnson,M,1949-06-14,Summerside,PE,Shellfish,186,85
+47,Ella,Martin,F,1950-10-01,Sydney,NS,Peanuts,142,100
+48,Liam,Taylor,M,1965-05-09,Moose Jaw,SK,Sulfa,200,130
+49,Luna,Martin,F,1986-04-29,Whitehorse,YT,None,197,83
+50,Samuel,Martinez,M,2003-04-12,Moose Jaw,SK,None,158,115
+51,Isabella,Miller,F,2005-06-10,Whitehorse,YT,None,187,67
+52,Carter,Jackson,M,1984-01-01,Halifax,NS,Peanuts,158,71
+53,Ella,Sanchez,F,1987-10-27,Dieppe,NB,Milk,183,72
+54,Samuel,Thomas,M,1960-06-12,Whitehorse,YT,Peanuts,172,129
+55,Eleanor,Hernandez,F,1946-10-04,Iqaluit,NU,None,159,73
+56,Jackson,Jones,M,1934-05-20,Ottawa,ON,Milk,179,54
+57,Scarlett,Wilson,F,1964-11-20,Yellowknife,NT,Milk,165,76
+58,Logan,Lee,M,1930-12-30,Iqaluit,NU,Eggs,154,67
+59,Chloe,Anderson,F,1939-01-05,St. John's,NL,Sulfa,169,62
+60,Daniel,Perez,M,1986-12-07,Iqaluit,NU,None,192,109
+61,Ella,Clark,F,2010-01-04,Kelowna,BC,Milk,168,78
+62,Aiden,Clark,M,1979-10-04,Iqaluit,NU,None,155,80
+63,Scarlett,Williams,F,1981-04-08,Red Deer,AB,Shellfish,160,114
+64,Ethan,Jones,M,1957-01-23,Lethbridge,AB,None,149,72
+65,Ava,Wilson,F,2003-02-19,Moose Jaw,SK,Eggs,143,71
+66,Alexander,Gonzalez,M,1933-07-04,Iqaluit,NU,Milk,140,90
+67,Evelyn,Harris,F,1999-12-23,Sydney,NS,Milk,154,79
+68,Alexander,Thomas,M,1935-03-18,Truro,NS,None,183,96
+69,Mia,Clark,F,2013-11-11,Richmond,BC,None,141,95
+70,Joseph,Jackson,M,1934-11-12,Trois-Rivieres,QC,Eggs,148,104
+71,Mia,Johnson,F,1976-09-05,Truro,NS,Latex,169,86
+72,James,Harris,M,1998-01-10,Thompson,MB,Peanuts,193,55
+73,Layla,Smith,F,1939-05-07,Regina,SK,None,144,128
+74,Noah,Harris,M,1935-07-27,Edmonton,AB,Penicillin,179,64
+75,Amelia,Jones,F,2014-12-21,Whitehorse,YT,None,200,72
+76,Daniel,Thompson,M,1975-12-24,Iqaluit,NU,Aspirin,178,122
+77,Sophia,Harris,F,1959-05-21,Winnipeg,MB,None,141,84
+78,Joseph,Perez,M,1997-05-05,Sydney,NS,Sulfa,177,125
+79,Amelia,Brown,F,1984-02-11,Whitehorse,YT,None,190,50
+80,Benjamin,Moore,M,2006-11-12,Whitehorse,YT,Sulfa,172,127
+81,Luna,Smith,F,2005-05-15,Moncton,NB,Eggs,163,126
+82,Daniel,Thompson,M,1957-06-14,Sydney,NS,None,173,128
+83,Harper,Martin,F,2016-10-02,Dieppe,NB,None,177,79
+84,James,Ramirez,M,1974-01-18,Laval,QC,Milk,155,104
+85,Madison,Martin,F,1998-01-01,Saskatoon,SK,Milk,194,86
+86,Lucas,Thomas,M,1968-01-23,Prince Albert,SK,Shellfish,157,121
+87,Harper,Moore,F,1931-10-28,St. John's,NL,Sulfa,155,97
+88,Matthew,Moore,M,1973-02-13,Yellowknife,NT,None,185,107
+89,Scarlett,Sanchez,F,1933-02-04,Laval,QC,Latex,165,76
+90,Jacob,Perez,M,1996-03-19,Fredericton,NB,Eggs,187,115
+91,Luna,Lopez,F,2011-06-01,Steinbach,MB,Peanuts,154,60
+92,Jackson,Hernandez,M,1951-06-15,Yellowknife,NT,Latex,153,106
+93,Harper,White,F,1980-10-11,Quebec City,QC,Peanuts,154,91
+94,Lucas,Martinez,M,1932-07-16,Yellowknife,NT,Peanuts,142,51
+95,Victoria,Martinez,F,1952-08-28,Whitehorse,YT,Sulfa,195,46
+96,Joseph,Martinez,M,2014-03-23,Dieppe,NB,Shellfish,151,51
+97,Harper,Ramirez,F,2015-09-20,Montreal,QC,Eggs,171,54
+98,Joseph,Lee,M,1939-08-15,Victoria,BC,None,200,83
+99,Ava,Davis,F,1951-04-03,Corner Brook,NL,None,178,124
+100,Aiden,Harris,M,1998-04-02,Dieppe,NB,Peanuts,195,120
+101,Ella,Martinez,F,1940-10-22,Charlottetown,PE,Latex,180,72
+102,Oliver,Perez,M,1944-07-26,Victoria,BC,Aspirin,175,54
+103,Mia,Smith,F,2003-04-20,Dieppe,NB,Peanuts,142,74
+104,Jacob,Thompson,M,1980-09-23,Yellowknife,NT,Sulfa,183,74
+105,Harper,Sanchez,F,1965-06-30,Halifax,NS,None,154,127
+106,Logan,Robinson,M,1977-08-30,Vancouver,BC,Penicillin,150,84
+107,Eleanor,White,F,1981-10-14,Moncton,NB,Milk,184,83
+108,Henry,Rodriguez,M,2019-10-19,Corner Brook,NL,Milk,145,121
+109,Olivia,Lewis,F,2007-07-09,Yellowknife,NT,None,156,48
+110,Ethan,Davis,M,1933-09-21,Iqaluit,NU,None,142,67
+111,Layla,Taylor,F,2009-05-07,Brandon,MB,None,167,126
+112,Matthew,Williams,M,2014-05-02,Moose Jaw,SK,Shellfish,160,130
+113,Sophia,Ramirez,F,1958-11-09,Moose Jaw,SK,None,171,81
+114,Henry,Clark,M,1936-08-01,Moncton,NB,Shellfish,156,86
+115,Sophia,Harris,F,2002-07-10,St. John's,NL,None,195,114
+116,Daniel,Wilson,M,1939-09-23,Medicine Hat,AB,Shellfish,179,108
+117,Scarlett,Harris,F,1939-04-06,Red Deer,AB,None,148,81
+118,Daniel,Lewis,M,2016-12-21,Montreal,QC,None,178,75
+119,Mia,Martinez,F,1932-06-15,Corner Brook,NL,Sulfa,154,59
+120,Daniel,Brown,M,1957-08-17,Fredericton,NB,None,185,79
+121,Ella,Clark,F,2016-07-29,Saint John,NB,Milk,175,63
+122,Henry,Miller,M,1954-06-30,Laval,QC,Eggs,161,109
+123,Harper,Clark,F,1930-06-18,Steinbach,MB,None,177,129
+124,Matthew,Ramirez,M,1956-08-30,Dieppe,NB,Shellfish,161,115
+125,Victoria,Gonzalez,F,2011-09-14,Regina,SK,None,155,118
+126,Henry,Davis,M,2003-09-15,Hamilton,ON,None,170,93
+127,Aria,Perez,F,1957-04-17,Moncton,NB,Aspirin,172,120
+128,James,Ramirez,M,1948-01-04,Moncton,NB,None,198,103
+129,Emma,White,F,1955-11-13,Sydney,NS,Sulfa,170,78
+130,James,Martin,M,2001-04-27,Whitehorse,YT,Shellfish,194,113
+131,Aria,Hernandez,F,2017-07-21,St. John's,NL,None,144,75
+132,Jacob,Davis,M,1946-03-21,Halifax,NS,None,185,57
+133,Scarlett,Garcia,F,1983-09-25,Toronto,ON,Shellfish,190,52
+134,Jacob,Lopez,M,1997-04-04,Sydney,NS,Latex,173,97
+135,Madison,Perez,F,1962-04-23,Victoria,BC,Sulfa,179,93
+136,Carter,Perez,M,1973-03-19,Saint John,NB,Latex,169,126
+137,Harper,Anderson,F,1975-10-25,Whitehorse,YT,Milk,197,81
+138,David,Garcia,M,1943-04-03,Fredericton,NB,None,159,126
+139,Ella,Thompson,F,1974-11-16,Fredericton,NB,Latex,164,106
+140,Mason,Davis,M,1998-06-06,Summerside,PE,None,158,82
+141,Emma,Clark,F,2001-01-07,Winnipeg,MB,None,195,51
+142,Carter,White,M,2019-02-16,Brandon,MB,None,191,90
+143,Amelia,Lee,F,1964-02-12,Summerside,PE,None,188,129
+144,Logan,Lee,M,1947-06-08,Whitehorse,YT,Peanuts,190,101
+145,Olivia,Jackson,F,1995-06-20,Yellowknife,NT,Sulfa,198,82
+146,James,White,M,2004-07-21,Victoria,BC,Aspirin,190,114
+147,Camila,Taylor,F,2020-01-14,Brandon,MB,Peanuts,198,106
+148,Jacob,White,M,1990-10-11,Iqaluit,NU,Milk,144,63
+149,Amelia,Ramirez,F,2001-04-22,Iqaluit,NU,Sulfa,190,95
+150,Liam,Rodriguez,M,1952-03-05,Fredericton,NB,None,187,78
+151,Madison,Gonzalez,F,1996-08-26,Trois-Rivieres,QC,Latex,170,48
+152,Carter,Lewis,M,1988-11-08,Charlottetown,PE,None,144,126
+153,Scarlett,Robinson,F,1984-03-22,Whitehorse,YT,Sulfa,148,50
+154,Noah,Martinez,M,2018-05-23,Montreal,QC,Latex,196,113
+155,Isabella,Gonzalez,F,2011-05-25,Moose Jaw,SK,None,187,64
+156,Alexander,Lee,M,1947-10-08,Dieppe,NB,Peanuts,142,92
+157,Charlotte,Anderson,F,2009-10-16,Red Deer,AB,Sulfa,183,92
+158,David,Lewis,M,1994-05-11,London,ON,Peanuts,152,60
+159,Scarlett,Williams,F,1968-01-22,Whitehorse,YT,Penicillin,190,87
+160,Aiden,Jones,M,1966-10-27,Sherbrooke,QC,Latex,177,72
+161,Amelia,Hernandez,F,1956-06-23,Iqaluit,NU,Peanuts,194,63
+162,Logan,Moore,M,1974-12-22,Iqaluit,NU,Sulfa,182,48
+163,Isabella,Smith,F,1994-04-12,Iqaluit,NU,None,160,47
+164,Lucas,Rodriguez,M,1939-05-28,Kelowna,BC,Eggs,173,59
+165,Ava,Thomas,F,2010-06-08,Iqaluit,NU,None,177,58
+166,Daniel,Taylor,M,1969-10-02,Charlottetown,PE,None,190,129
+167,Chloe,Martinez,F,2012-03-09,Whitehorse,YT,Penicillin,170,96
+168,Alexander,Perez,M,1949-05-16,Dieppe,NB,Sulfa,197,55
+169,Luna,Martin,F,1956-08-13,Quebec City,QC,Peanuts,179,126
+170,Joseph,Moore,M,1988-05-07,Truro,NS,Milk,172,122
+171,Ella,Brown,F,1950-07-13,Whitehorse,YT,Eggs,168,74
+172,Alexander,Hernandez,M,2011-05-16,New Glasgow,NS,None,146,85
+173,Ella,Hernandez,F,1975-09-26,Regina,SK,None,199,105
+174,Ethan,Williams,M,1945-04-26,Gatineau,QC,Sulfa,187,92
+175,Isabella,Moore,F,1940-10-05,Summerside,PE,None,147,97
+176,Benjamin,Ramirez,M,2005-11-20,Yellowknife,NT,Peanuts,178,84
+177,Camila,Brown,F,1968-03-04,Kelowna,BC,Milk,154,58
+178,Benjamin,Ramirez,M,1995-12-14,Laval,QC,None,154,99
+179,Victoria,Harris,F,1934-09-17,Summerside,PE,Penicillin,151,79
+180,Jacob,Robinson,M,1990-12-22,Saskatoon,SK,Aspirin,195,63
+181,Madison,Perez,F,2001-11-29,Quebec City,QC,None,180,48
+182,Ethan,White,M,1968-08-07,New Glasgow,NS,Milk,161,65
+183,Camila,Martinez,F,1988-03-15,Iqaluit,NU,Penicillin,149,65
+184,Carter,Johnson,M,1944-08-21,Thompson,MB,None,167,107
+185,Eleanor,Anderson,F,2004-04-25,Brandon,MB,None,147,89
+186,Alexander,Brown,M,1980-10-27,Whitehorse,YT,None,182,84
+187,Olivia,Davis,F,2000-12-02,Charlottetown,PE,Penicillin,153,83
+188,Jackson,Harris,M,1954-08-16,Iqaluit,NU,Peanuts,160,60
+189,Emma,Thomas,F,2007-04-10,Victoria,BC,Eggs,174,74
+190,Samuel,Moore,M,1993-07-19,Gatineau,QC,None,142,100
+191,Emma,Anderson,F,1943-12-21,Moose Jaw,SK,None,165,126
+192,Alexander,Martinez,M,1950-09-01,Halifax,NS,Shellfish,150,124
+193,Scarlett,Clark,F,1994-12-05,Gatineau,QC,Sulfa,155,100
+194,Joseph,Gonzalez,M,1944-02-11,Truro,NS,None,161,73
+195,Luna,Harris,F,1960-03-02,Sherbrooke,QC,None,147,112
+196,Samuel,Miller,M,1992-09-08,Regina,SK,Latex,146,63
+197,Harper,Miller,F,1961-02-17,Charlottetown,PE,None,144,67
+198,Matthew,Anderson,M,2010-07-19,Whitehorse,YT,None,160,64
+199,Scarlett,Williams,F,2014-02-20,Fredericton,NB,Peanuts,177,52
+200,Benjamin,Taylor,M,1943-04-25,Thompson,MB,Milk,142,52
+201,Camila,Clark,F,1981-07-05,Trois-Rivieres,QC,Sulfa,179,121
+202,Samuel,Gonzalez,M,2013-01-09,Charlottetown,PE,Milk,198,118
+203,Charlotte,Hernandez,F,2015-05-05,St. John's,NL,Penicillin,168,58
+204,James,Thompson,M,1945-02-17,Mount Pearl,NL,Aspirin,142,76
+205,Scarlett,Anderson,F,1958-06-26,Prince Albert,SK,Peanuts,164,97
+206,James,Perez,M,1939-05-25,Iqaluit,NU,Sulfa,161,57
+207,Victoria,Perez,F,1999-05-12,Steinbach,MB,None,194,129
+208,Carter,Ramirez,M,1956-12-24,Saskatoon,SK,None,182,63
+209,Camila,Martinez,F,2000-04-30,Richmond,BC,None,200,55
+210,Jacob,Moore,M,1997-08-03,Whitehorse,YT,Aspirin,182,112
+211,Ava,Lee,F,2005-12-21,Corner Brook,NL,Penicillin,163,84
+212,Lucas,Miller,M,1991-04-26,Iqaluit,NU,Latex,154,62
+213,Isabella,Williams,F,1983-01-28,Iqaluit,NU,None,189,114
+214,Samuel,Johnson,M,1990-06-05,Iqaluit,NU,None,164,64
+215,Mia,Garcia,F,1959-09-14,Yellowknife,NT,Penicillin,166,91
+216,Aiden,Anderson,M,1981-02-15,Iqaluit,NU,Latex,174,75
+217,Evelyn,Sanchez,F,2014-02-26,Red Deer,AB,None,200,118
+218,Daniel,Anderson,M,1980-07-23,Iqaluit,NU,None,173,98
+219,Mia,Clark,F,1965-10-31,Iqaluit,NU,Peanuts,143,127
+220,Matthew,Ramirez,M,1996-08-09,St. John's,NL,None,194,111
+221,Sophia,Martinez,F,1945-01-18,Iqaluit,NU,Peanuts,168,110
+222,Logan,Clark,M,2008-06-30,Quebec City,QC,Milk,196,89
+223,Emma,Wilson,F,1939-07-23,Truro,NS,Latex,164,55
+224,Benjamin,Davis,M,1935-01-22,Saskatoon,SK,None,181,87
+225,Isabella,Jones,F,1936-11-15,Thompson,MB,None,193,62
+226,Matthew,Anderson,M,1930-12-11,Montreal,QC,Peanuts,153,64
+227,Victoria,White,F,2005-12-11,Laval,QC,Latex,159,60
+228,Noah,Davis,M,2005-04-30,Whitehorse,YT,Sulfa,147,108
+229,Eleanor,Moore,F,1932-12-13,Whitehorse,YT,None,149,82
+230,Alexander,Smith,M,1993-04-22,Medicine Hat,AB,Eggs,151,130
+231,Ava,Taylor,F,1994-09-14,Sherbrooke,QC,None,172,109
+232,David,Smith,M,2000-01-22,Moncton,NB,None,164,92
+233,Harper,White,F,1932-11-30,Saskatoon,SK,Shellfish,155,129
+234,Mason,Harris,M,1989-08-30,Vancouver,BC,Shellfish,174,88
+235,Mia,Clark,F,2013-05-14,Yellowknife,NT,None,151,62
+236,Ethan,Thompson,M,2012-02-14,Hamilton,ON,Latex,142,70
+237,Olivia,Hernandez,F,1985-08-21,Corner Brook,NL,None,170,77
+238,Noah,Harris,M,1964-04-16,Steinbach,MB,Penicillin,195,128
+239,Luna,Rodriguez,F,1952-05-02,Iqaluit,NU,Eggs,196,96
+240,Daniel,Lewis,M,1999-05-18,Regina,SK,Milk,184,108
+241,Camila,Robinson,F,1977-11-09,Iqaluit,NU,None,167,55
+242,Alexander,Martin,M,1962-05-19,Corner Brook,NL,Shellfish,146,55
+243,Luna,Perez,F,1983-01-18,Thompson,MB,None,185,99
+244,Lucas,Thompson,M,2009-08-25,Moose Jaw,SK,Penicillin,186,90
+245,Eleanor,Wilson,F,1979-04-07,Whitehorse,YT,Sulfa,182,126
+246,Henry,Lopez,M,1958-09-15,Ottawa,ON,None,183,101
+247,Olivia,Jones,F,1942-01-24,Red Deer,AB,Shellfish,164,117
+248,Noah,Martin,M,1957-07-13,Whitehorse,YT,Shellfish,163,101
+249,Ava,Jackson,F,1954-09-15,Corner Brook,NL,Eggs,160,128
+250,Oliver,Davis,M,1950-05-10,Brampton,ON,Aspirin,171,111
+251,Aria,Robinson,F,1951-02-17,Steinbach,MB,None,168,72
+252,Carter,Martinez,M,2018-02-19,Calgary,AB,Aspirin,194,54
+253,Scarlett,Garcia,F,2009-11-12,Trois-Rivieres,QC,Shellfish,182,89
+254,Ethan,Moore,M,1982-02-06,Brandon,MB,None,185,126
+255,Mia,Sanchez,F,1994-11-11,St. John's,NL,Sulfa,152,62
+256,Aiden,Sanchez,M,2018-08-23,Hamilton,ON,None,176,92
+257,Scarlett,Sanchez,F,1953-04-14,Charlottetown,PE,Sulfa,159,95
+258,Matthew,Taylor,M,2003-09-16,Iqaluit,NU,None,144,61
+259,Luna,Lee,F,1943-04-23,Dieppe,NB,None,173,89
+260,Logan,Lewis,M,1962-08-26,Iqaluit,NU,Eggs,172,52
+261,Sophia,Taylor,F,1957-06-16,Brandon,MB,Aspirin,160,73
+262,Benjamin,Taylor,M,1980-12-19,Laval,QC,Latex,180,115
+263,Harper,Jones,F,1984-05-02,Charlottetown,PE,None,181,66
+264,Joseph,Jackson,M,1957-09-01,Kelowna,BC,None,186,122
+265,Luna,Clark,F,1937-05-23,Toronto,ON,Penicillin,200,127
+266,Joseph,Rodriguez,M,1967-10-29,Iqaluit,NU,None,180,48
+267,Layla,Lewis,F,1981-12-22,Whitehorse,YT,Milk,155,96
+268,Jacob,Anderson,M,1943-02-04,Yellowknife,NT,Aspirin,168,98
+269,Layla,Anderson,F,1966-08-10,Regina,SK,Shellfish,195,85
+270,Benjamin,Gonzalez,M,1953-06-18,Iqaluit,NU,None,175,58
+271,Luna,Davis,F,2013-09-12,Laval,QC,Milk,155,63
+272,Mason,Johnson,M,1982-01-27,New Glasgow,NS,Latex,195,65
+273,Luna,Robinson,F,1986-02-10,Edmonton,AB,Milk,172,104
+274,Matthew,Lewis,M,1985-05-12,Moncton,NB,Sulfa,200,95
+275,Chloe,Anderson,F,1973-03-12,Medicine Hat,AB,Shellfish,143,51
+276,Jacob,Thomas,M,2014-06-09,Winnipeg,MB,Sulfa,167,62
+277,Harper,White,F,1995-08-19,Iqaluit,NU,Shellfish,142,96
+278,Noah,Jackson,M,1964-12-04,Prince Albert,SK,Sulfa,164,109
+279,Scarlett,Harris,F,1980-03-10,Charlottetown,PE,Aspirin,146,95
+280,Benjamin,Sanchez,M,1990-11-04,Corner Brook,NL,Aspirin,152,122
+281,Chloe,Gonzalez,F,2019-09-24,Toronto,ON,Penicillin,148,87
+282,Matthew,Taylor,M,2011-12-31,Richmond,BC,None,148,86
+283,Eleanor,Hernandez,F,1959-02-27,Truro,NS,None,161,109
+284,Samuel,Moore,M,2017-11-22,Yellowknife,NT,Milk,192,47
+285,Camila,Hernandez,F,1949-09-01,Truro,NS,None,195,125
+286,Liam,Martin,M,2015-02-26,Brandon,MB,None,143,119
+287,Layla,Garcia,F,1998-03-21,Kelowna,BC,Latex,142,118
+288,Mason,Miller,M,1933-05-26,Fredericton,NB,Eggs,149,97
+289,Charlotte,Wilson,F,2020-01-16,Iqaluit,NU,None,186,52
+290,Logan,Taylor,M,1967-03-16,Corner Brook,NL,None,170,112
+291,Aria,Hernandez,F,1961-01-27,Fredericton,NB,None,162,127
+292,Oliver,Martin,M,2016-11-16,Edmonton,AB,Peanuts,175,83
+293,Amelia,Martinez,F,1981-11-09,Yellowknife,NT,None,185,107
+294,James,Thomas,M,1992-08-02,Mount Pearl,NL,Peanuts,158,60
+295,Madison,Perez,F,1998-02-16,Truro,NS,Aspirin,158,50
+296,Jacob,Thompson,M,1944-03-07,Moose Jaw,SK,None,156,106
+297,Charlotte,Miller,F,1978-08-25,Mount Pearl,NL,Peanuts,148,58
+298,Carter,White,M,1972-12-07,Calgary,AB,None,197,112
+299,Amelia,Lee,F,1971-10-12,Toronto,ON,Eggs,161,105
+300,Mason,Perez,M,1954-09-01,Mississauga,ON,Aspirin,166,128
+301,Layla,Thomas,F,1965-10-15,Iqaluit,NU,Shellfish,158,127
+302,Noah,Robinson,M,1946-01-19,Whitehorse,YT,None,187,49
+303,Mia,Wilson,F,1961-07-17,Windsor,ON,Eggs,190,108
+304,Lucas,Robinson,M,1981-12-09,Toronto,ON,Peanuts,176,122
+305,Sophia,Robinson,F,1990-02-12,Thompson,MB,None,174,112
+306,Matthew,Lewis,M,1954-01-29,Corner Brook,NL,Peanuts,152,59
+307,Luna,Garcia,F,2012-05-05,Whitehorse,YT,None,151,46
+308,James,Sanchez,M,1982-12-08,Charlottetown,PE,Aspirin,179,126
+309,Aria,Clark,F,2006-09-28,Corner Brook,NL,Sulfa,165,130
+310,Mason,Garcia,M,1955-03-26,Fredericton,NB,Latex,140,78
+311,Aria,Davis,F,2010-02-27,Iqaluit,NU,Shellfish,159,119
+312,Joseph,Smith,M,1976-12-06,Whitehorse,YT,None,155,52
+313,Sophia,Anderson,F,1985-01-18,Burnaby,BC,None,172,84
+314,Mason,Lee,M,1982-12-09,Regina,SK,Latex,148,106
+315,Isabella,Anderson,F,1997-01-14,New Glasgow,NS,None,191,130
+316,Jackson,Harris,M,1974-05-27,Whitehorse,YT,None,168,112
+317,Camila,Williams,F,1950-02-18,Windsor,ON,None,197,109
+318,Jackson,Jackson,M,1956-11-20,Surrey,BC,None,168,59
+319,Charlotte,Thompson,F,2017-09-16,Sherbrooke,QC,Milk,191,52
+320,Daniel,Jones,M,2004-07-16,Moncton,NB,None,169,84
+321,Emma,Gonzalez,F,1975-08-29,Brampton,ON,Latex,177,54
+322,Noah,Wilson,M,1991-10-27,Yellowknife,NT,None,143,53
+323,Layla,Johnson,F,1981-07-06,Sydney,NS,Aspirin,189,127
+324,Alexander,Lopez,M,1998-08-18,Dieppe,NB,Eggs,145,129
+325,Victoria,Jones,F,1992-05-26,Quebec City,QC,None,165,112
+326,Logan,White,M,1969-12-16,Windsor,ON,Penicillin,159,104
+327,Victoria,Wilson,F,1998-01-20,Edmonton,AB,Milk,162,64
+328,Oliver,Miller,M,1950-04-01,Windsor,ON,None,166,123
+329,Emma,Davis,F,1966-12-23,Montreal,QC,None,142,102
+330,Carter,Perez,M,1938-09-26,Calgary,AB,Eggs,168,74
+331,Victoria,Miller,F,1940-02-17,Richmond,BC,Peanuts,154,118
+332,James,Jackson,M,1987-07-16,Red Deer,AB,Aspirin,182,111
+333,Amelia,Wilson,F,1983-12-02,Winnipeg,MB,None,200,120
+334,Lucas,Lee,M,2006-08-27,Corner Brook,NL,Penicillin,162,127
+335,Aria,Sanchez,F,1987-03-11,Yellowknife,NT,Eggs,149,83
+336,Henry,Garcia,M,2014-12-18,Edmonton,AB,Peanuts,194,63
+337,Scarlett,Robinson,F,1940-05-04,Corner Brook,NL,Eggs,175,112
+338,Logan,Gonzalez,M,1973-07-29,Brandon,MB,Shellfish,181,55
+339,Scarlett,Ramirez,F,1996-07-31,Sherbrooke,QC,None,193,69
+340,Noah,Rodriguez,M,1997-09-04,Whitehorse,YT,Sulfa,152,120
+341,Victoria,Miller,F,2016-01-07,Red Deer,AB,Peanuts,198,46
+342,Jackson,Robinson,M,1964-02-05,Yellowknife,NT,None,188,106
+343,Amelia,Thompson,F,1966-09-11,Sydney,NS,None,160,81
+344,Henry,Anderson,M,1994-06-18,Steinbach,MB,Shellfish,172,108
+345,Scarlett,Brown,F,2014-03-29,Iqaluit,NU,Latex,163,85
+346,Alexander,Johnson,M,1969-09-14,Yellowknife,NT,Penicillin,156,115
+347,Madison,Jackson,F,2004-12-04,Brandon,MB,Latex,161,74
+348,Henry,Jackson,M,1974-02-03,Fredericton,NB,Peanuts,188,107
+349,Layla,Anderson,F,1960-03-09,Yellowknife,NT,Aspirin,148,114
+350,Matthew,Garcia,M,1940-07-16,St. John's,NL,Sulfa,200,130
+351,Olivia,Harris,F,1931-02-23,Sydney,NS,None,154,53
+352,Logan,Smith,M,1969-03-31,Corner Brook,NL,Shellfish,143,124
+353,Eleanor,Robinson,F,2016-09-13,Whitehorse,YT,Penicillin,140,113
+354,David,Wilson,M,1932-02-16,Mississauga,ON,None,157,113
+355,Evelyn,Smith,F,2020-02-11,Yellowknife,NT,Aspirin,146,57
+356,Samuel,Jones,M,1973-03-28,Medicine Hat,AB,None,156,90
+357,Harper,Sanchez,F,2001-03-20,Laval,QC,Eggs,169,117
+358,Aiden,Thompson,M,1970-07-11,Winnipeg,MB,None,194,128
+359,Olivia,Williams,F,2002-09-20,New Glasgow,NS,None,170,52
+360,Liam,Thompson,M,1960-10-01,Gatineau,QC,Eggs,181,87
+361,Madison,Ramirez,F,1947-02-10,St. John's,NL,Latex,153,117
+362,Matthew,Rodriguez,M,1938-05-10,Trois-Rivieres,QC,Peanuts,197,114
+363,Madison,Perez,F,1935-11-27,Surrey,BC,Penicillin,153,120
+364,Logan,Harris,M,2001-06-19,Laval,QC,Aspirin,176,75
+365,Madison,Clark,F,1999-10-29,Whitehorse,YT,Eggs,188,62
+366,Ethan,Taylor,M,1992-01-22,Toronto,ON,Eggs,154,54
+367,Luna,Martin,F,2001-03-07,Iqaluit,NU,Penicillin,180,79
+368,Daniel,Thomas,M,1970-12-08,Moose Jaw,SK,Eggs,151,119
+369,Aria,Williams,F,1982-12-31,Iqaluit,NU,None,144,55
+370,Oliver,Jones,M,1998-03-08,Yellowknife,NT,None,164,85
+371,Camila,Brown,F,1946-06-03,Hamilton,ON,Milk,163,79
+372,Mason,Jones,M,1945-08-31,Burnaby,BC,Milk,175,116
+373,Chloe,Wilson,F,1948-07-14,Toronto,ON,Shellfish,175,56
+374,Carter,Martin,M,1988-03-18,Halifax,NS,Peanuts,166,94
+375,Ava,White,F,1973-07-22,Charlottetown,PE,None,164,66
+376,Logan,Rodriguez,M,1984-01-12,Thompson,MB,Aspirin,144,66
+377,Ella,Rodriguez,F,2005-07-23,Thompson,MB,Sulfa,163,77
+378,Aiden,White,M,2018-12-17,Charlottetown,PE,Milk,146,62
+379,Evelyn,Smith,F,2000-12-31,Moose Jaw,SK,Shellfish,168,87
+380,Alexander,Clark,M,1954-06-05,Steinbach,MB,None,200,70
+381,Layla,Hernandez,F,1961-11-15,Truro,NS,Peanuts,187,126
+382,Matthew,Jackson,M,1973-07-01,Moose Jaw,SK,Peanuts,192,95
+383,Camila,Brown,F,1965-11-07,Charlottetown,PE,None,189,115
+384,Liam,White,M,2012-10-29,Yellowknife,NT,Milk,191,82
+385,Ava,Clark,F,2003-05-31,Whitehorse,YT,Aspirin,180,83
+386,Aiden,Rodriguez,M,1957-08-28,Yellowknife,NT,Eggs,144,102
+387,Eleanor,Thomas,F,2001-12-01,Mount Pearl,NL,None,166,114
+388,Noah,Sanchez,M,1994-07-06,Yellowknife,NT,Sulfa,189,76
+389,Camila,Garcia,F,1937-12-13,Summerside,PE,Shellfish,190,100
+390,Mason,Smith,M,1947-09-11,Brandon,MB,None,187,111
+391,Victoria,Jackson,F,1969-08-29,Fredericton,NB,Eggs,169,120
+392,Samuel,Jones,M,1991-11-24,London,ON,Sulfa,158,98
+393,Ava,Brown,F,1955-06-03,Prince Albert,SK,Shellfish,169,71
+394,Samuel,Thomas,M,1992-06-30,Moncton,NB,Milk,186,102
+395,Luna,Williams,F,1983-11-17,Windsor,ON,None,147,47
+396,James,Lee,M,1949-08-16,Whitehorse,YT,None,155,111
+397,Mia,Moore,F,1958-09-25,Moose Jaw,SK,Milk,154,96
+398,Lucas,Garcia,M,2007-07-16,Halifax,NS,None,179,70
+399,Scarlett,Jackson,F,2007-01-28,Halifax,NS,None,153,71
+400,Oliver,Harris,M,1941-03-24,Charlottetown,PE,None,151,91
+401,Luna,Miller,F,2012-02-06,Laval,QC,None,195,107
+402,Samuel,Lee,M,1986-03-27,Summerside,PE,None,165,120
+403,Sophia,Lopez,F,1993-02-26,Saint John,NB,None,185,83
+404,Carter,Jackson,M,1945-03-17,Whitehorse,YT,Shellfish,147,75
+405,Evelyn,Brown,F,1962-11-05,Regina,SK,None,164,98
+406,Carter,Jones,M,1998-11-06,Sydney,NS,Milk,180,113
+407,Mia,Moore,F,1959-12-10,Fredericton,NB,Aspirin,151,85
+408,Daniel,Martin,M,1939-08-15,Saskatoon,SK,Milk,148,69
+409,Aria,Moore,F,2020-09-09,Whitehorse,YT,Eggs,183,107
+410,Alexander,Thompson,M,2009-08-22,Saint John,NB,Sulfa,176,48
+411,Amelia,Martinez,F,1935-11-13,Brandon,MB,None,158,66
+412,Daniel,Jackson,M,2018-11-15,Mount Pearl,NL,Sulfa,176,59
+413,Harper,Harris,F,1995-10-29,St. John's,NL,None,168,114
+414,Jackson,Wilson,M,1948-05-17,Yellowknife,NT,Peanuts,195,49
+415,Scarlett,Rodriguez,F,1992-07-18,Gatineau,QC,Sulfa,189,75
+416,Jackson,Sanchez,M,1992-11-29,Yellowknife,NT,Aspirin,179,62
+417,Charlotte,Clark,F,1967-02-18,Iqaluit,NU,None,162,113
+418,Oliver,Martin,M,1960-03-18,Prince Albert,SK,Peanuts,176,79
+419,Chloe,Lewis,F,1947-02-01,Burnaby,BC,Penicillin,157,128
+420,Logan,Thompson,M,1953-10-23,Edmonton,AB,None,160,76
+421,Aria,Thomas,F,1955-07-06,Summerside,PE,None,166,93
+422,Daniel,Williams,M,1946-09-15,Truro,NS,None,199,92
+423,Scarlett,Thomas,F,1988-09-22,Charlottetown,PE,None,145,103
+424,Benjamin,Ramirez,M,1941-05-13,Iqaluit,NU,Latex,167,72
+425,Layla,Rodriguez,F,1987-12-07,Steinbach,MB,None,176,61
+426,Joseph,Ramirez,M,2017-01-31,Iqaluit,NU,None,188,51
+427,Olivia,Brown,F,2012-06-18,Toronto,ON,Aspirin,168,103
+428,Liam,Wilson,M,1966-04-21,Yellowknife,NT,None,159,65
+429,Harper,Williams,F,1994-09-03,Winnipeg,MB,Shellfish,182,128
+430,Lucas,Johnson,M,2001-02-11,Whitehorse,YT,None,184,74
+431,Ella,Lee,F,1946-05-13,Yellowknife,NT,Penicillin,153,106
+432,Ethan,Jones,M,1970-08-02,Mount Pearl,NL,Milk,140,46
+433,Luna,Clark,F,1951-08-22,Sydney,NS,Milk,144,74
+434,Henry,Williams,M,1948-05-18,Laval,QC,Shellfish,196,83
+435,Isabella,Gonzalez,F,1953-11-21,Whitehorse,YT,Sulfa,173,117
+436,Liam,Martin,M,1959-06-13,Fredericton,NB,None,153,125
+437,Isabella,Robinson,F,2003-11-15,Summerside,PE,Latex,145,57
+438,Logan,Harris,M,1952-02-06,Summerside,PE,Shellfish,167,85
+439,Isabella,Davis,F,1979-09-12,Whitehorse,YT,Latex,175,121
+440,Carter,White,M,1981-02-14,Iqaluit,NU,None,196,83
+441,Charlotte,Taylor,F,1963-11-07,Yellowknife,NT,Peanuts,181,51
+442,Aiden,Thomas,M,1999-03-29,Quebec City,QC,Milk,180,121
+443,Ava,Taylor,F,1932-03-01,Prince Albert,SK,Aspirin,164,117
+444,Alexander,Lopez,M,1960-12-31,Iqaluit,NU,Sulfa,141,120
+445,Ava,Smith,F,1977-01-16,Calgary,AB,Penicillin,200,95
+446,Samuel,Martinez,M,2019-11-26,Iqaluit,NU,Eggs,184,96
+447,Ava,Lee,F,1957-05-25,Winnipeg,MB,Peanuts,145,110
+448,Jackson,Sanchez,M,1957-11-17,Corner Brook,NL,Eggs,177,126
+449,Ava,Martinez,F,2008-07-01,Yellowknife,NT,Penicillin,155,56
+450,Alexander,Brown,M,2011-05-08,Charlottetown,PE,Peanuts,182,129
+451,Mia,Brown,F,1932-04-10,Yellowknife,NT,None,140,65
+452,Matthew,Lopez,M,1976-07-08,Surrey,BC,Aspirin,187,79
+453,Sophia,Harris,F,1935-04-08,Moose Jaw,SK,Peanuts,173,53
+454,Oliver,Thompson,M,1943-10-30,Dieppe,NB,None,163,52
+455,Layla,Ramirez,F,1959-12-11,Regina,SK,Peanuts,189,58
+456,Joseph,Perez,M,1950-09-11,Medicine Hat,AB,Penicillin,142,46
+457,Amelia,Johnson,F,2014-08-25,Moose Jaw,SK,Aspirin,151,49
+458,David,Sanchez,M,2005-03-31,Red Deer,AB,Latex,166,85
+459,Harper,Clark,F,1943-12-23,Summerside,PE,Sulfa,172,51
+460,Lucas,Davis,M,1938-03-29,Halifax,NS,Milk,195,81
+461,Evelyn,Hernandez,F,1945-07-02,Corner Brook,NL,Penicillin,163,70
+462,Jacob,Jackson,M,1984-07-13,Yellowknife,NT,Milk,163,120
+463,Layla,Harris,F,1965-01-24,Yellowknife,NT,Aspirin,140,97
+464,Liam,Davis,M,1992-02-28,Whitehorse,YT,Shellfish,140,129
+465,Aria,Ramirez,F,1985-03-06,Quebec City,QC,None,155,98
+466,Matthew,Johnson,M,1955-07-19,Yellowknife,NT,Sulfa,142,74
+467,Chloe,Wilson,F,1996-11-01,Moncton,NB,None,146,109
+468,Logan,Lee,M,2000-10-04,Sherbrooke,QC,None,143,100
+469,Isabella,Davis,F,1982-05-03,Steinbach,MB,Eggs,184,86
+470,James,Anderson,M,1978-10-18,Calgary,AB,Latex,148,119
+471,Sophia,Jones,F,1948-12-16,Burnaby,BC,Milk,160,97
+472,Mason,Moore,M,1994-04-15,Iqaluit,NU,Milk,159,104
+473,Harper,Ramirez,F,1951-07-08,Quebec City,QC,None,159,122
+474,Noah,Miller,M,1988-10-25,Vancouver,BC,None,155,90
+475,Aria,Taylor,F,1938-10-14,Whitehorse,YT,Peanuts,192,67
+476,Liam,Gonzalez,M,2011-02-20,Mount Pearl,NL,None,155,57
+477,Scarlett,Brown,F,1955-01-31,Montreal,QC,Penicillin,193,73
+478,Logan,Miller,M,2001-11-16,Saskatoon,SK,None,177,78
+479,Ava,Smith,F,1941-07-27,Lethbridge,AB,Aspirin,145,87
+480,Mason,Johnson,M,2012-09-18,Ottawa,ON,None,167,95
+481,Layla,Smith,F,1998-09-03,Whitehorse,YT,Aspirin,162,72
+482,Lucas,Rodriguez,M,1980-03-19,Saint John,NB,Penicillin,179,124
+483,Eleanor,Davis,F,1982-12-14,Dieppe,NB,None,170,52
+484,Ethan,Rodriguez,M,1998-09-22,Burnaby,BC,Latex,181,112
+485,Amelia,Lee,F,1933-07-03,Truro,NS,Milk,174,107
+486,Benjamin,Robinson,M,2020-02-22,Moose Jaw,SK,Peanuts,151,48
+487,Luna,Martin,F,1969-04-19,Windsor,ON,Peanuts,143,105
+488,Samuel,Lopez,M,1971-10-07,Vancouver,BC,Latex,182,75
+489,Harper,Moore,F,1940-01-13,Iqaluit,NU,None,194,94
+490,Benjamin,Robinson,M,1961-03-03,Victoria,BC,None,160,90
+491,Madison,Smith,F,1993-02-06,Charlottetown,PE,None,200,69
+492,Matthew,Moore,M,1985-06-15,Burnaby,BC,Penicillin,145,52
+493,Amelia,Martin,F,1969-04-05,Mississauga,ON,Milk,140,87
+494,Carter,Miller,M,1953-05-31,Regina,SK,Shellfish,143,47
+495,Isabella,Jackson,F,1955-06-02,Iqaluit,NU,None,195,91
+496,Ethan,Lopez,M,2000-12-24,Charlottetown,PE,Shellfish,159,86
+497,Isabella,Garcia,F,2008-05-21,Iqaluit,NU,None,160,67
+498,David,Thompson,M,1994-01-09,Medicine Hat,AB,Aspirin,164,84
+499,Evelyn,Jones,F,1961-11-20,Yellowknife,NT,None,200,118
+500,Henry,Ramirez,M,1935-10-24,Richmond,BC,Shellfish,198,123
+501,Amelia,Lee,F,1948-09-05,Saint John,NB,Shellfish,187,54
+502,Aiden,Lopez,M,1987-05-01,Kelowna,BC,Sulfa,192,130
+503,Luna,Anderson,F,1932-01-17,Brandon,MB,Latex,184,53
+504,Benjamin,Rodriguez,M,1949-05-21,Yellowknife,NT,Penicillin,164,101
+505,Ella,Garcia,F,2004-04-15,Dieppe,NB,Shellfish,174,93
+506,Mason,Clark,M,2016-01-13,Iqaluit,NU,Aspirin,168,54
+507,Olivia,Martinez,F,1933-08-08,Prince Albert,SK,Sulfa,144,88
+508,Lucas,Lewis,M,1997-05-15,Kelowna,BC,Sulfa,175,56
+509,Luna,Martin,F,2016-08-13,Yellowknife,NT,Eggs,200,128
+510,Lucas,Martin,M,2007-11-28,Vancouver,BC,Sulfa,161,71
+511,Charlotte,Wilson,F,1977-08-06,Whitehorse,YT,Peanuts,155,57
+512,Noah,Gonzalez,M,2018-02-02,Vancouver,BC,Shellfish,140,99
+513,Ava,Martinez,F,2016-03-08,Calgary,AB,Penicillin,153,66
+514,Jacob,Williams,M,2014-12-21,Laval,QC,Eggs,170,107
+515,Harper,Williams,F,1999-07-14,Surrey,BC,Eggs,163,68
+516,Daniel,Johnson,M,1977-03-30,Dieppe,NB,Peanuts,154,79
+517,Madison,Johnson,F,1957-02-12,Iqaluit,NU,Sulfa,182,89
+518,David,Wilson,M,1970-10-28,St. John's,NL,Eggs,192,111
+519,Ella,Moore,F,2015-03-14,Charlottetown,PE,Milk,159,55
+520,Henry,Lewis,M,1936-03-25,Mount Pearl,NL,None,191,118
+521,Eleanor,Jones,F,1951-08-01,Iqaluit,NU,Aspirin,200,66
+522,Jackson,Sanchez,M,1964-07-31,Vancouver,BC,Eggs,145,100
+523,Charlotte,Clark,F,1956-07-14,Summerside,PE,Shellfish,198,53
+524,Ethan,Gonzalez,M,2001-04-19,Corner Brook,NL,Peanuts,173,103
+525,Emma,Sanchez,F,2005-04-15,Gatineau,QC,Aspirin,149,117
+526,Joseph,Jackson,M,1947-12-24,Sherbrooke,QC,Sulfa,190,81
+527,Victoria,Lewis,F,1991-09-13,Truro,NS,Eggs,181,107
+528,Joseph,Martin,M,2014-11-17,Ottawa,ON,Peanuts,165,63
+529,Eleanor,Martin,F,2002-01-30,London,ON,Shellfish,184,75
+530,Noah,White,M,2015-04-08,Steinbach,MB,Penicillin,161,83
+531,Evelyn,Rodriguez,F,2018-03-18,Yellowknife,NT,Latex,148,83
+532,Daniel,Harris,M,1987-07-29,Thompson,MB,None,181,56
+533,Charlotte,Anderson,F,1967-12-06,New Glasgow,NS,None,195,92
+534,Noah,Taylor,M,1958-07-11,Laval,QC,None,172,96
+535,Isabella,Harris,F,1935-03-13,Victoria,BC,Latex,193,52
+536,Aiden,Johnson,M,2011-11-25,Hamilton,ON,None,152,80
+537,Camila,Clark,F,2013-04-18,Corner Brook,NL,None,199,60
+538,Liam,Davis,M,1996-10-30,Dieppe,NB,Aspirin,195,105
+539,Madison,Moore,F,1992-10-03,Regina,SK,Peanuts,187,56
+540,Jacob,Smith,M,1999-05-12,Ottawa,ON,None,189,72
+541,Amelia,Lee,F,1970-05-23,Whitehorse,YT,Peanuts,181,97
+542,Samuel,Smith,M,1931-08-07,Saint John,NB,None,151,121
+543,Emma,Davis,F,1975-04-15,Summerside,PE,None,185,127
+544,Oliver,Wilson,M,1997-07-20,Moose Jaw,SK,Peanuts,153,104
+545,Evelyn,Perez,F,2001-04-05,Charlottetown,PE,Penicillin,172,129
+546,Benjamin,Moore,M,1980-09-20,Winnipeg,MB,Milk,144,88
+547,Harper,Lee,F,1988-05-04,Steinbach,MB,None,185,128
+548,Jacob,Miller,M,1956-11-25,St. John's,NL,Penicillin,191,121
+549,Aria,Perez,F,1987-05-06,Whitehorse,YT,None,141,128
+550,Matthew,Martinez,M,1976-07-19,New Glasgow,NS,Eggs,187,49
+551,Madison,Thompson,F,1964-01-29,Regina,SK,None,174,126
+552,Matthew,Robinson,M,1994-04-29,Corner Brook,NL,Aspirin,193,129
+553,Victoria,Garcia,F,1982-09-18,Gatineau,QC,Aspirin,187,78
+554,David,Harris,M,1962-11-06,Whitehorse,YT,None,145,73
+555,Camila,Davis,F,1985-02-06,Truro,NS,Shellfish,156,119
+556,Jacob,Anderson,M,1951-02-18,Moncton,NB,None,177,119
+557,Eleanor,Williams,F,2014-09-24,Medicine Hat,AB,Sulfa,195,93
+558,Samuel,Martinez,M,2004-02-15,Windsor,ON,Aspirin,148,70
+559,Luna,Wilson,F,2012-02-07,Surrey,BC,None,151,55
+560,Matthew,Hernandez,M,1961-09-23,Saskatoon,SK,Penicillin,168,80
+561,Charlotte,Harris,F,1960-04-02,Charlottetown,PE,Milk,190,56
+562,Logan,Martin,M,2007-10-27,Whitehorse,YT,Eggs,167,106
+563,Aria,Smith,F,1936-10-08,St. John's,NL,None,163,46
+564,James,Harris,M,1964-03-12,Brampton,ON,Penicillin,180,76
+565,Amelia,Thompson,F,1991-10-15,Brandon,MB,Sulfa,164,109
+566,Joseph,Martinez,M,1959-12-20,Montreal,QC,Peanuts,200,82
+567,Scarlett,White,F,1990-08-14,Sydney,NS,Shellfish,197,107
+568,Benjamin,Harris,M,1963-10-23,Burnaby,BC,Penicillin,154,73
+569,Isabella,Miller,F,1933-12-07,Charlottetown,PE,Sulfa,163,128
+570,Noah,Gonzalez,M,1975-11-24,Iqaluit,NU,None,143,129
+571,Sophia,Lee,F,1933-07-17,Brampton,ON,Sulfa,166,101
+572,Henry,Brown,M,1975-05-08,Saint John,NB,Latex,184,125
+573,Emma,Martinez,F,2005-07-08,Whitehorse,YT,None,173,79
+574,Carter,Martin,M,1954-08-12,Halifax,NS,None,186,124
+575,Sophia,Martinez,F,1950-06-16,Iqaluit,NU,Milk,152,122
+576,Jackson,Harris,M,1977-03-10,St. John's,NL,Shellfish,185,97
+577,Evelyn,Garcia,F,1937-01-26,Corner Brook,NL,Latex,184,106
+578,James,Davis,M,1930-06-29,Brampton,ON,Sulfa,198,59
+579,Madison,Perez,F,2018-08-28,Vancouver,BC,None,144,57
+580,Oliver,Lee,M,1971-06-24,Fredericton,NB,Peanuts,169,51
+581,Sophia,Clark,F,1961-05-07,Windsor,ON,Peanuts,163,85
+582,Alexander,White,M,1950-10-18,Montreal,QC,Penicillin,194,62
+583,Mia,Hernandez,F,1994-02-24,Fredericton,NB,None,145,92
+584,James,Garcia,M,1950-06-05,New Glasgow,NS,Milk,157,94
+585,Layla,Sanchez,F,2005-09-03,Whitehorse,YT,Sulfa,148,52
+586,Lucas,Brown,M,2004-08-24,Summerside,PE,None,183,101
+587,Mia,Martin,F,1998-02-20,Iqaluit,NU,None,141,61
+588,Matthew,Robinson,M,2017-08-01,Gatineau,QC,Milk,142,53
+589,Harper,Lee,F,1986-05-20,Brampton,ON,None,173,118
+590,Joseph,Davis,M,1990-09-13,Mount Pearl,NL,None,184,124
+591,Sophia,Wilson,F,1974-08-08,Fredericton,NB,None,183,127
+592,Henry,Jones,M,1939-10-17,Brampton,ON,Aspirin,172,105
+593,Layla,Ramirez,F,1959-09-05,Gatineau,QC,Shellfish,155,87
+594,Oliver,Johnson,M,2020-12-16,Medicine Hat,AB,None,164,96
+595,Amelia,Williams,F,2012-05-17,Dieppe,NB,Sulfa,194,108
+596,Daniel,Hernandez,M,1951-04-20,Moncton,NB,Sulfa,165,97
+597,Olivia,Moore,F,1930-01-12,Sherbrooke,QC,None,180,83
+598,Samuel,Moore,M,1967-02-12,Whitehorse,YT,Shellfish,163,51
+599,Amelia,Ramirez,F,2011-07-18,Moose Jaw,SK,None,182,91
+600,Daniel,Brown,M,1947-06-26,Iqaluit,NU,Penicillin,161,90
+601,Evelyn,Moore,F,1997-02-01,Yellowknife,NT,Penicillin,197,66
+602,Matthew,Jones,M,2003-06-05,Laval,QC,None,152,69
+603,Sophia,Robinson,F,2000-06-30,Lethbridge,AB,Latex,185,88
+604,Mason,Harris,M,2004-05-14,Brampton,ON,None,177,60
+605,Scarlett,Anderson,F,2020-06-20,Burnaby,BC,Penicillin,173,51
+606,David,Robinson,M,2007-08-29,Summerside,PE,None,189,67
+607,Madison,Garcia,F,1953-01-13,Gatineau,QC,None,178,122
+608,James,Taylor,M,1999-01-08,Sydney,NS,Peanuts,165,88
+609,Evelyn,Anderson,F,1953-12-06,Burnaby,BC,None,184,110
+610,Jacob,Clark,M,1986-04-29,Yellowknife,NT,Latex,153,124
+611,Evelyn,Perez,F,1991-12-16,Whitehorse,YT,None,181,67
+612,Samuel,Moore,M,1987-11-05,Yellowknife,NT,Shellfish,175,106
+613,Madison,Jackson,F,2004-11-27,Whitehorse,YT,Eggs,191,46
+614,Samuel,Brown,M,1934-07-15,Sydney,NS,Penicillin,182,52
+615,Charlotte,Rodriguez,F,1958-11-17,Steinbach,MB,Aspirin,193,52
+616,Jacob,Miller,M,1935-10-19,Moose Jaw,SK,Sulfa,179,116
+617,Amelia,White,F,1999-10-12,Medicine Hat,AB,None,158,130
+618,Noah,Robinson,M,1998-06-20,New Glasgow,NS,None,160,115
+619,Olivia,Smith,F,1975-02-05,Medicine Hat,AB,Milk,193,73
+620,Benjamin,Harris,M,1965-04-02,Iqaluit,NU,Peanuts,168,67
+621,Ava,Garcia,F,1961-03-08,Yellowknife,NT,Eggs,142,99
+622,Oliver,Moore,M,1977-05-31,Victoria,BC,None,194,77
+623,Emma,Hernandez,F,2013-09-03,Yellowknife,NT,Penicillin,149,86
+624,Carter,Johnson,M,1984-01-14,Fredericton,NB,Sulfa,190,85
+625,Chloe,Davis,F,1962-12-29,St. John's,NL,None,150,98
+626,David,Moore,M,2002-05-21,Laval,QC,Latex,196,72
+627,Luna,Hernandez,F,1994-09-27,Brandon,MB,None,173,105
+628,David,Clark,M,1931-07-31,Trois-Rivieres,QC,Shellfish,168,75
+629,Eleanor,Robinson,F,1973-10-01,Brampton,ON,Shellfish,164,59
+630,Henry,Rodriguez,M,1980-09-30,Mississauga,ON,Shellfish,172,110
+631,Scarlett,Thomas,F,1937-11-13,Brandon,MB,Shellfish,172,55
+632,Mason,Garcia,M,1931-04-26,Whitehorse,YT,Latex,182,125
+633,Charlotte,Ramirez,F,2006-02-11,Quebec City,QC,None,193,100
+634,Ethan,White,M,1957-08-03,London,ON,None,161,49
+635,Ava,Williams,F,1939-09-27,Surrey,BC,None,144,118
+636,Aiden,Robinson,M,1976-05-29,New Glasgow,NS,Milk,180,96
+637,Ella,Hernandez,F,1933-01-11,Halifax,NS,None,140,127
+638,Carter,Williams,M,1938-03-02,Yellowknife,NT,Shellfish,199,109
+639,Sophia,Martinez,F,1984-01-27,Charlottetown,PE,Peanuts,188,101
+640,Henry,Gonzalez,M,1935-07-13,Saint John,NB,None,154,62
+641,Aria,Sanchez,F,1982-12-05,Whitehorse,YT,Peanuts,183,127
+642,Benjamin,Smith,M,1955-05-15,Montreal,QC,Penicillin,176,121
+643,Aria,Moore,F,1945-04-10,Brandon,MB,None,187,89
+644,Jackson,Wilson,M,1955-07-24,Victoria,BC,Latex,179,77
+645,Charlotte,Brown,F,1962-07-17,Whitehorse,YT,None,169,127
+646,David,Williams,M,1982-02-25,Whitehorse,YT,Peanuts,146,70
+647,Madison,Thomas,F,1989-05-13,Regina,SK,None,181,75
+648,Mason,Martinez,M,1942-07-11,Red Deer,AB,Milk,168,87
+649,Eleanor,Perez,F,1984-11-05,Yellowknife,NT,None,176,91
+650,James,Wilson,M,1960-04-04,Hamilton,ON,Latex,190,73
+651,Ella,Rodriguez,F,1994-07-03,Kelowna,BC,None,161,106
+652,Daniel,Anderson,M,1994-05-15,Iqaluit,NU,Milk,175,58
+653,Mia,Lee,F,1944-09-16,Brandon,MB,None,152,78
+654,Ethan,White,M,1943-07-13,Windsor,ON,None,180,48
+655,Madison,Jackson,F,2002-09-10,Iqaluit,NU,Penicillin,175,78
+656,David,Lewis,M,2014-09-16,Whitehorse,YT,Shellfish,165,73
+657,Madison,White,F,1982-03-19,Burnaby,BC,None,172,56
+658,Henry,Lopez,M,2020-02-08,Brampton,ON,Latex,194,123
+659,Mia,Harris,F,1955-03-10,Saint John,NB,Aspirin,176,117
+660,Logan,White,M,2016-10-02,Saskatoon,SK,Latex,188,107
+661,Amelia,Williams,F,1977-06-07,Regina,SK,Penicillin,182,71
+662,Samuel,Robinson,M,1994-10-26,New Glasgow,NS,Milk,196,50
+663,Olivia,Lee,F,1988-02-24,Trois-Rivieres,QC,None,180,80
+664,Oliver,Jackson,M,1961-03-12,New Glasgow,NS,Shellfish,177,128
+665,Ava,Taylor,F,1975-02-21,Sydney,NS,None,165,90
+666,Benjamin,Thomas,M,2016-07-03,Charlottetown,PE,None,196,62
+667,Scarlett,Garcia,F,1971-04-08,Sherbrooke,QC,None,157,72
+668,Logan,Garcia,M,1958-03-27,Saskatoon,SK,None,154,98
+669,Luna,White,F,1950-05-03,Dieppe,NB,Milk,153,120
+670,Lucas,Lee,M,2003-09-23,Ottawa,ON,Penicillin,148,118
+671,Madison,Garcia,F,1954-03-05,Whitehorse,YT,None,149,52
+672,Lucas,Rodriguez,M,1962-04-21,Corner Brook,NL,None,176,126
+673,Emma,Lewis,F,1980-11-10,Quebec City,QC,Milk,178,105
+674,Matthew,Garcia,M,1969-05-12,Sydney,NS,None,192,68
+675,Eleanor,Perez,F,1977-06-18,Kelowna,BC,None,161,103
+676,Carter,Jackson,M,1942-05-09,Lethbridge,AB,Eggs,148,58
+677,Emma,Miller,F,2020-06-30,Whitehorse,YT,Aspirin,178,57
+678,Lucas,Thomas,M,1937-01-02,Iqaluit,NU,Sulfa,170,129
+679,Isabella,Lewis,F,1930-03-20,Iqaluit,NU,None,166,92
+680,Noah,Thompson,M,2006-12-20,Lethbridge,AB,Eggs,162,120
+681,Madison,Brown,F,2006-05-06,Surrey,BC,Milk,189,74
+682,Ethan,Martinez,M,2003-04-29,Brandon,MB,Penicillin,185,45
+683,Madison,Taylor,F,1951-02-22,St. John's,NL,Eggs,181,71
+684,James,Wilson,M,1995-01-01,Quebec City,QC,Eggs,181,119
+685,Harper,Rodriguez,F,2005-12-31,Summerside,PE,None,157,95
+686,Jackson,Wilson,M,2016-07-27,Surrey,BC,None,175,106
+687,Harper,Martinez,F,1991-10-15,Iqaluit,NU,None,148,129
+688,Mason,White,M,1971-03-25,Saint John,NB,Sulfa,153,110
+689,Aria,Sanchez,F,1990-09-22,Iqaluit,NU,Aspirin,164,126
+690,Liam,Sanchez,M,1946-05-06,Burnaby,BC,None,167,56
+691,Ava,Rodriguez,F,1969-10-16,Saskatoon,SK,None,142,94
+692,Henry,Martin,M,1981-05-27,Yellowknife,NT,Aspirin,180,108
+693,Scarlett,Smith,F,1966-03-12,Whitehorse,YT,Latex,142,121
+694,Samuel,Taylor,M,1971-07-27,Charlottetown,PE,None,142,91
+695,Amelia,Lee,F,1930-01-19,Vancouver,BC,Peanuts,189,96
+696,Benjamin,Perez,M,2000-11-25,Sydney,NS,None,140,53
+697,Ava,Moore,F,1981-01-17,Yellowknife,NT,Shellfish,192,80
+698,Aiden,Martin,M,1964-11-26,Dieppe,NB,None,140,78
+699,Mia,Wilson,F,2020-10-31,Sherbrooke,QC,Sulfa,172,82
+700,James,Brown,M,1976-03-28,Mount Pearl,NL,Peanuts,184,101
+701,Aria,Jackson,F,2016-10-11,Iqaluit,NU,Shellfish,189,103
+702,Daniel,Lewis,M,1934-11-28,Moncton,NB,Peanuts,144,93
+703,Amelia,Perez,F,1971-04-04,Iqaluit,NU,Eggs,162,111
+704,David,Smith,M,1977-04-02,Red Deer,AB,Sulfa,165,88
+705,Ava,Moore,F,1962-01-10,Fredericton,NB,Shellfish,153,118
+706,Oliver,Garcia,M,1964-02-14,Saint John,NB,Latex,187,75
+707,Harper,Miller,F,1971-02-16,Edmonton,AB,None,162,64
+708,Mason,Brown,M,1944-01-31,Whitehorse,YT,None,140,114
+709,Olivia,Ramirez,F,2016-07-15,Prince Albert,SK,Milk,197,118
+710,Oliver,Thomas,M,1962-10-24,Iqaluit,NU,Eggs,154,118
+711,Isabella,Johnson,F,2005-12-06,Moncton,NB,None,162,95
+712,Lucas,Anderson,M,1951-08-07,Yellowknife,NT,Shellfish,184,46
+713,Emma,Perez,F,1967-10-25,Halifax,NS,Shellfish,163,123
+714,Oliver,Garcia,M,1977-03-01,Red Deer,AB,Milk,179,88
+715,Camila,Garcia,F,2019-06-30,Sydney,NS,Eggs,184,92
+716,Benjamin,Ramirez,M,2001-11-17,Thompson,MB,Aspirin,176,61
+717,Madison,Perez,F,1971-01-05,Trois-Rivieres,QC,Peanuts,191,75
+718,David,Wilson,M,1998-05-05,Edmonton,AB,None,149,105
+719,Emma,Garcia,F,2005-08-19,Saint John,NB,None,173,113
+720,James,Sanchez,M,2017-04-25,Steinbach,MB,None,194,117
+721,Olivia,Gonzalez,F,1947-10-05,Yellowknife,NT,Penicillin,153,77
+722,Matthew,Clark,M,1947-04-13,Fredericton,NB,Peanuts,163,91
+723,Victoria,Moore,F,1976-03-29,Saskatoon,SK,Eggs,147,89
+724,Carter,Miller,M,1961-04-26,Iqaluit,NU,Shellfish,160,110
+725,Layla,Harris,F,2010-03-12,Gatineau,QC,None,158,104
+726,Logan,Ramirez,M,1960-01-26,Whitehorse,YT,Eggs,180,123
+727,Madison,Gonzalez,F,1942-10-20,Quebec City,QC,Shellfish,154,85
+728,James,Lee,M,1982-04-12,Yellowknife,NT,None,181,95
+729,Harper,Lewis,F,2009-10-29,Iqaluit,NU,None,177,111
+730,Daniel,Wilson,M,1960-01-09,Vancouver,BC,Aspirin,186,75
+731,Harper,White,F,1944-05-14,Edmonton,AB,Eggs,146,57
+732,Ethan,Robinson,M,2014-11-26,St. John's,NL,Penicillin,189,95
+733,Chloe,Harris,F,1944-12-08,Laval,QC,None,149,55
+734,Henry,Martinez,M,1971-02-26,Red Deer,AB,Milk,180,61
+735,Isabella,Taylor,F,1960-08-11,Toronto,ON,None,162,86
+736,Matthew,Anderson,M,1978-11-17,Corner Brook,NL,Aspirin,200,114
+737,Mia,Jackson,F,2011-12-02,Whitehorse,YT,None,180,126
+738,David,Martinez,M,1992-04-17,Saint John,NB,Sulfa,168,84
+739,Camila,Wilson,F,1976-08-13,Surrey,BC,Penicillin,140,111
+740,Logan,Lopez,M,1981-06-15,Moncton,NB,None,199,107
+741,Layla,Martinez,F,1931-08-22,Iqaluit,NU,Peanuts,178,74
+742,Liam,Moore,M,1997-01-16,Lethbridge,AB,None,167,95
+743,Amelia,Garcia,F,1999-12-05,Sydney,NS,Peanuts,145,99
+744,Aiden,Taylor,M,1978-10-12,Steinbach,MB,Eggs,152,53
+745,Mia,Jones,F,1981-12-17,Trois-Rivieres,QC,Milk,179,102
+746,Oliver,Thompson,M,2018-04-12,Red Deer,AB,Penicillin,149,51
+747,Victoria,Smith,F,1963-05-13,Laval,QC,Peanuts,148,101
+748,Liam,Davis,M,1946-03-09,Vancouver,BC,Milk,153,88
+749,Ella,Martinez,F,2019-06-05,Moose Jaw,SK,None,190,49
+750,James,Williams,M,1956-03-19,Hamilton,ON,Eggs,144,114
+751,Layla,Garcia,F,1964-06-26,Thompson,MB,Penicillin,147,76
+752,Henry,Harris,M,2009-06-24,Calgary,AB,Latex,169,57
+753,Chloe,Perez,F,1967-05-27,Dieppe,NB,None,159,86
+754,Lucas,Lee,M,1937-07-27,Yellowknife,NT,Peanuts,170,126
+755,Evelyn,Miller,F,1994-09-02,Windsor,ON,None,153,59
+756,Aiden,Lee,M,2007-11-26,Saskatoon,SK,Aspirin,190,80
+757,Madison,Brown,F,2001-01-07,Iqaluit,NU,Penicillin,142,119
+758,Matthew,Thompson,M,1957-10-23,Saskatoon,SK,Latex,150,108
+759,Ava,Perez,F,1990-09-21,Iqaluit,NU,Penicillin,162,127
+760,Logan,Thompson,M,1949-04-09,Burnaby,BC,Latex,160,116
+761,Camila,Sanchez,F,2008-09-19,Yellowknife,NT,Penicillin,184,93
+762,Benjamin,White,M,1954-03-05,Winnipeg,MB,Milk,185,101
+763,Victoria,Martinez,F,2017-12-08,Medicine Hat,AB,Aspirin,174,89
+764,James,White,M,2014-01-16,Brandon,MB,Sulfa,173,64
+765,Scarlett,Martinez,F,1977-04-02,Corner Brook,NL,Milk,140,126
+766,Samuel,Gonzalez,M,1963-04-17,Mississauga,ON,Shellfish,189,124
+767,Amelia,Hernandez,F,1941-05-14,Whitehorse,YT,Latex,173,108
+768,David,Jones,M,1980-10-20,Moose Jaw,SK,None,160,59
+769,Sophia,Taylor,F,1941-12-18,Windsor,ON,Aspirin,151,49
+770,Jackson,Brown,M,2017-02-02,Calgary,AB,Penicillin,176,127
+771,Aria,Perez,F,2017-11-26,Mount Pearl,NL,None,177,77
+772,Noah,Lopez,M,1969-08-09,Charlottetown,PE,Penicillin,199,71
+773,Layla,Robinson,F,1944-05-07,Moncton,NB,Shellfish,175,98
+774,Benjamin,Sanchez,M,1940-06-17,Summerside,PE,None,142,54
+775,Evelyn,Williams,F,1968-09-27,St. John's,NL,Sulfa,186,74
+776,David,Gonzalez,M,1963-12-30,Medicine Hat,AB,None,155,117
+777,Mia,Moore,F,2004-06-30,Yellowknife,NT,None,176,90
+778,Daniel,Thompson,M,2006-08-18,Quebec City,QC,Aspirin,175,96
+779,Chloe,Hernandez,F,1958-05-20,Mount Pearl,NL,Milk,199,90
+780,James,Moore,M,1988-04-02,Moose Jaw,SK,None,167,86
+781,Eleanor,Davis,F,1968-05-20,Truro,NS,Shellfish,168,102
+782,Henry,Smith,M,1936-03-21,Winnipeg,MB,None,148,83
+783,Emma,Martinez,F,1969-10-24,Red Deer,AB,Penicillin,189,80
+784,David,Taylor,M,1957-10-05,Montreal,QC,Milk,162,64
+785,Isabella,Rodriguez,F,1995-11-13,Charlottetown,PE,Latex,156,83
+786,Ethan,Jackson,M,2001-09-26,Charlottetown,PE,None,144,86
+787,Layla,Garcia,F,2017-08-11,Yellowknife,NT,None,181,83
+788,Noah,White,M,1998-06-18,Montreal,QC,Shellfish,162,100
+789,Ella,Robinson,F,1951-08-18,Iqaluit,NU,None,181,122
+790,Liam,Lee,M,1998-08-18,Hamilton,ON,None,142,85
+791,Victoria,Jackson,F,1956-11-02,Regina,SK,Aspirin,143,95
+792,Daniel,Harris,M,2020-07-24,Quebec City,QC,Eggs,158,95
+793,Isabella,Jones,F,1990-04-27,Gatineau,QC,None,187,51
+794,David,Gonzalez,M,1977-02-09,Gatineau,QC,None,167,61
+795,Isabella,Thomas,F,1965-07-19,Dieppe,NB,None,176,70
+796,David,Martin,M,1974-03-08,Calgary,AB,Peanuts,189,100
+797,Luna,Perez,F,1946-01-28,Trois-Rivieres,QC,Eggs,167,91
+798,Benjamin,Miller,M,1987-07-20,Saskatoon,SK,Peanuts,150,89
+799,Eleanor,Clark,F,2009-05-06,Charlottetown,PE,Milk,142,74
+800,Jackson,Perez,M,1997-01-27,Kelowna,BC,Sulfa,147,51
+801,Amelia,Martin,F,1956-07-01,Winnipeg,MB,Shellfish,184,59
+802,Jacob,Anderson,M,2014-07-18,Hamilton,ON,Latex,187,113
+803,Charlotte,Miller,F,1976-05-30,Corner Brook,NL,None,186,63
+804,Liam,Gonzalez,M,1937-10-20,Brandon,MB,Penicillin,158,70
+805,Eleanor,Rodriguez,F,1939-07-11,Moncton,NB,Sulfa,164,129
+806,Oliver,Perez,M,1994-08-20,Montreal,QC,Peanuts,195,128
+807,Aria,Davis,F,1998-04-23,Mount Pearl,NL,Sulfa,197,85
+808,Matthew,Ramirez,M,1945-10-17,Victoria,BC,None,169,116
+809,Emma,Johnson,F,1974-05-23,Corner Brook,NL,Shellfish,171,95
+810,Lucas,Smith,M,1992-03-22,Whitehorse,YT,Shellfish,180,83
+811,Amelia,Taylor,F,1979-07-02,Iqaluit,NU,None,156,94
+812,Liam,Moore,M,1980-04-10,Edmonton,AB,Shellfish,197,95
+813,Isabella,Williams,F,1998-07-31,Mount Pearl,NL,None,195,125
+814,Aiden,Wilson,M,1973-02-16,Charlottetown,PE,Eggs,159,122
+815,Luna,Anderson,F,1953-08-23,Edmonton,AB,None,174,70
+816,Logan,Martinez,M,1954-04-08,Sydney,NS,None,199,117
+817,Mia,Hernandez,F,1942-03-03,Mount Pearl,NL,None,147,68
+818,James,Clark,M,1956-02-10,Yellowknife,NT,Shellfish,196,97
+819,Ella,Martinez,F,2009-06-27,Yellowknife,NT,Aspirin,189,69
+820,Mason,Jones,M,1963-02-24,Windsor,ON,None,179,79
+821,Eleanor,Jackson,F,1971-06-08,Charlottetown,PE,Latex,183,48
+822,Benjamin,Williams,M,2015-07-08,Richmond,BC,None,170,128
+823,Camila,Garcia,F,1999-07-10,Dieppe,NB,Aspirin,150,69
+824,Aiden,Johnson,M,2003-04-25,Iqaluit,NU,Peanuts,200,97
+825,Amelia,White,F,1966-05-24,Iqaluit,NU,Sulfa,151,101
+826,Carter,Thomas,M,1988-04-18,Saint John,NB,Eggs,165,50
+827,Eleanor,White,F,1998-04-02,Yellowknife,NT,Eggs,179,118
+828,Carter,Moore,M,1936-11-28,St. John's,NL,Milk,169,50
+829,Amelia,Taylor,F,2000-12-25,Yellowknife,NT,None,164,111
+830,Noah,Miller,M,1982-03-31,Dieppe,NB,Peanuts,189,81
+831,Scarlett,Garcia,F,2005-10-20,Winnipeg,MB,None,173,63
+832,Daniel,Clark,M,2011-01-18,Trois-Rivieres,QC,None,147,68
+833,Madison,Lewis,F,1954-04-12,New Glasgow,NS,Shellfish,168,48
+834,Lucas,Anderson,M,1966-03-26,Moncton,NB,Peanuts,160,128
+835,Mia,Thompson,F,1952-03-02,Montreal,QC,None,168,126
+836,Benjamin,Williams,M,1998-12-01,Yellowknife,NT,Eggs,175,93
+837,Olivia,Harris,F,1960-08-30,Regina,SK,Aspirin,195,63
+838,Lucas,Harris,M,1939-03-17,Truro,NS,Peanuts,186,102
+839,Evelyn,Lee,F,1962-06-04,Quebec City,QC,Latex,140,124
+840,Oliver,Smith,M,2012-04-17,Dieppe,NB,None,191,45
+841,Eleanor,Lewis,F,2018-07-17,Edmonton,AB,None,182,105
+842,Daniel,Wilson,M,2009-04-14,Sherbrooke,QC,None,140,76
+843,Victoria,Rodriguez,F,1967-04-04,Ottawa,ON,Aspirin,143,128
+844,Benjamin,Johnson,M,1956-02-01,Brampton,ON,None,193,122
+845,Evelyn,Hernandez,F,1945-09-26,Toronto,ON,Eggs,151,65
+846,Jacob,Martin,M,1961-11-01,Fredericton,NB,Penicillin,145,83
+847,Luna,Lopez,F,1997-12-29,Gatineau,QC,None,144,82
+848,Matthew,Jones,M,1951-11-23,Yellowknife,NT,Shellfish,173,97
+849,Chloe,Miller,F,1967-07-06,Charlottetown,PE,Sulfa,176,125
+850,Samuel,Williams,M,2016-10-13,Yellowknife,NT,Eggs,178,85
+851,Harper,Taylor,F,1993-06-29,Richmond,BC,None,171,111
+852,Matthew,Thomas,M,1962-04-13,Charlottetown,PE,None,158,69
+853,Emma,Brown,F,1934-04-21,Moncton,NB,None,194,71
+854,Carter,Wilson,M,2004-04-16,Hamilton,ON,Shellfish,175,126
+855,Charlotte,Smith,F,1966-02-06,Yellowknife,NT,Peanuts,190,53
+856,Jacob,Martinez,M,2020-11-30,Corner Brook,NL,Penicillin,147,87
+857,Luna,Gonzalez,F,1935-03-24,Victoria,BC,Shellfish,193,88
+858,Matthew,Robinson,M,2015-02-20,Iqaluit,NU,None,148,106
+859,Isabella,Lee,F,2012-08-25,Corner Brook,NL,Milk,190,97
+860,Noah,Clark,M,1983-09-17,Summerside,PE,None,174,47
+861,Charlotte,Jackson,F,1989-07-09,Iqaluit,NU,Sulfa,149,80
+862,Liam,Hernandez,M,1997-04-30,Whitehorse,YT,None,178,94
+863,Mia,Martin,F,1950-12-19,Iqaluit,NU,None,194,85
+864,Noah,Rodriguez,M,2004-04-05,Gatineau,QC,Latex,163,102
+865,Evelyn,Miller,F,1984-03-30,Vancouver,BC,Shellfish,190,49
+866,Jackson,Robinson,M,1946-08-13,Moncton,NB,Milk,197,109
+867,Isabella,Miller,F,1991-01-10,Fredericton,NB,Shellfish,149,57
+868,Samuel,Perez,M,1953-10-24,Calgary,AB,Milk,164,111
+869,Sophia,Smith,F,1985-10-19,Brampton,ON,None,195,56
+870,James,Anderson,M,1938-04-12,Sherbrooke,QC,None,187,84
+871,Emma,Jackson,F,1986-01-03,Whitehorse,YT,Shellfish,152,69
+872,Jacob,Rodriguez,M,1987-04-07,Iqaluit,NU,None,147,79
+873,Isabella,Garcia,F,1979-02-06,Montreal,QC,None,175,110
+874,Mason,Miller,M,1992-11-09,Corner Brook,NL,Peanuts,149,81
+875,Madison,Davis,F,1960-09-24,Laval,QC,None,197,88
+876,David,Anderson,M,1939-02-07,Vancouver,BC,Milk,197,51
+877,Sophia,Gonzalez,F,1939-08-27,Gatineau,QC,Eggs,151,121
+878,Joseph,Lee,M,2009-12-30,Summerside,PE,Peanuts,161,70
+879,Victoria,Williams,F,2013-07-23,Charlottetown,PE,Sulfa,192,104
+880,Mason,Anderson,M,1985-09-10,Whitehorse,YT,Milk,154,73
+881,Isabella,Ramirez,F,1976-04-20,Moose Jaw,SK,Aspirin,184,130
+882,James,Sanchez,M,1988-04-09,Dieppe,NB,Penicillin,144,105
+883,Sophia,Lopez,F,2015-11-19,Saint John,NB,Peanuts,189,89
+884,Carter,Jackson,M,1952-11-09,St. John's,NL,Eggs,192,58
+885,Luna,Moore,F,1942-09-23,Iqaluit,NU,None,169,96
+886,Joseph,Wilson,M,1972-10-22,Charlottetown,PE,None,150,106
+887,Aria,Williams,F,1991-02-19,Medicine Hat,AB,Eggs,190,100
+888,Joseph,Sanchez,M,1991-05-27,Mount Pearl,NL,Latex,151,129
+889,Ava,White,F,2017-04-25,Sherbrooke,QC,None,169,86
+890,David,Brown,M,2009-11-19,Surrey,BC,Eggs,144,121
+891,Sophia,Perez,F,1997-12-27,Moose Jaw,SK,None,182,52
+892,Ethan,Miller,M,1954-12-05,Charlottetown,PE,Aspirin,182,64
+893,Scarlett,Moore,F,1982-04-21,New Glasgow,NS,Latex,153,85
+894,Jacob,Jackson,M,1984-08-23,Truro,NS,Sulfa,177,46
+895,Eleanor,Taylor,F,2002-07-11,Surrey,BC,Penicillin,163,115
+896,Noah,Smith,M,1994-06-17,Laval,QC,Penicillin,155,100
+897,Madison,Gonzalez,F,1987-01-30,Yellowknife,NT,Eggs,164,100
+898,David,Miller,M,1961-02-11,Saint John,NB,Latex,175,94
+899,Camila,Clark,F,2004-11-11,Surrey,BC,None,148,62
+900,Liam,Williams,M,1932-10-26,Kelowna,BC,Milk,182,100
+901,Isabella,Williams,F,1954-08-15,Whitehorse,YT,Milk,197,122
+902,Alexander,Martin,M,1962-04-06,Dieppe,NB,None,192,102
+903,Aria,Lopez,F,1970-07-04,Burnaby,BC,None,140,118
+904,Matthew,Ramirez,M,1972-06-24,Yellowknife,NT,Eggs,199,114
+905,Madison,Lopez,F,1936-01-02,Mississauga,ON,Milk,185,92
+906,Mason,Jackson,M,2016-05-26,Yellowknife,NT,Aspirin,186,112
+907,Harper,Anderson,F,1944-01-15,Mount Pearl,NL,Sulfa,155,105
+908,Ethan,Perez,M,1986-01-26,Charlottetown,PE,Shellfish,174,46
+909,Layla,Anderson,F,2014-03-12,Summerside,PE,Eggs,162,82
+910,Jacob,Garcia,M,1936-05-04,Yellowknife,NT,None,190,117
+911,Harper,Johnson,F,2014-11-25,Charlottetown,PE,None,143,129
+912,Jacob,Sanchez,M,1934-11-25,Thompson,MB,Sulfa,148,109
+913,Ava,Ramirez,F,1979-11-09,Brandon,MB,None,157,80
+914,Oliver,Smith,M,1950-01-06,Charlottetown,PE,None,187,64
+915,Scarlett,Lopez,F,1961-06-21,Brandon,MB,Milk,151,112
+916,Noah,Hernandez,M,1945-02-22,Richmond,BC,Aspirin,193,108
+917,Ella,Harris,F,1998-10-02,Lethbridge,AB,None,180,66
+918,Jackson,Jackson,M,1991-12-01,Brampton,ON,Peanuts,188,59
+919,Olivia,Garcia,F,2013-04-04,New Glasgow,NS,Peanuts,170,113
+920,Aiden,Gonzalez,M,1999-12-28,Fredericton,NB,Aspirin,173,100
+921,Emma,Martinez,F,2010-07-13,Truro,NS,None,183,50
+922,Mason,Robinson,M,1993-06-27,Truro,NS,Shellfish,157,79
+923,Sophia,Rodriguez,F,2000-03-08,Saint John,NB,None,183,120
+924,Jackson,Taylor,M,1990-07-17,Whitehorse,YT,Shellfish,175,46
+925,Emma,Clark,F,1942-03-12,London,ON,Sulfa,173,58
+926,Daniel,Lopez,M,1969-05-15,Yellowknife,NT,Peanuts,152,49
+927,Emma,Martin,F,1946-07-01,Mississauga,ON,None,197,72
+928,Carter,Lee,M,1951-11-08,Yellowknife,NT,Sulfa,194,122
+929,Isabella,Gonzalez,F,1963-02-25,Trois-Rivieres,QC,Aspirin,156,82
+930,Daniel,Perez,M,1943-08-03,Whitehorse,YT,Peanuts,189,99
+931,Luna,Rodriguez,F,1959-01-23,Iqaluit,NU,Peanuts,189,52
+932,Henry,Gonzalez,M,1989-09-08,Hamilton,ON,Peanuts,151,101
+933,Ava,Thomas,F,1966-01-03,Summerside,PE,Aspirin,181,107
+934,Mason,Jones,M,2007-05-19,Medicine Hat,AB,None,146,101
+935,Harper,Brown,F,1936-04-03,Montreal,QC,None,186,77
+936,Daniel,Smith,M,2019-04-21,Kelowna,BC,None,140,49
+937,Aria,Rodriguez,F,1957-03-15,Yellowknife,NT,Eggs,176,45
+938,Samuel,Thompson,M,2018-01-16,Dieppe,NB,Eggs,194,53
+939,Victoria,Davis,F,1930-08-05,New Glasgow,NS,Sulfa,176,113
+940,Benjamin,Hernandez,M,1984-05-03,Halifax,NS,None,181,56
+941,Camila,Moore,F,1991-01-07,Gatineau,QC,Peanuts,181,70
+942,Lucas,Moore,M,1937-01-21,Sydney,NS,Peanuts,184,94
+943,Sophia,Lee,F,1994-06-18,Moncton,NB,None,168,69
+944,Logan,Johnson,M,1964-08-24,Brampton,ON,None,155,107
+945,Aria,Williams,F,1985-03-20,Dieppe,NB,Penicillin,142,88
+946,Noah,Hernandez,M,1937-09-06,Halifax,NS,Latex,191,128
+947,Chloe,Anderson,F,1956-09-22,Yellowknife,NT,Sulfa,142,63
+948,Matthew,Lee,M,1933-06-03,Moncton,NB,Latex,184,128
+949,Isabella,Smith,F,1960-11-27,Whitehorse,YT,Peanuts,192,57
+950,Daniel,Martin,M,1960-08-17,Charlottetown,PE,Sulfa,147,108
+951,Eleanor,Sanchez,F,1969-07-30,Quebec City,QC,Eggs,161,96
+952,James,Brown,M,1954-08-23,Regina,SK,Penicillin,177,67
+953,Luna,Williams,F,1951-09-01,Brandon,MB,Eggs,150,92
+954,David,Garcia,M,2008-09-16,Medicine Hat,AB,Penicillin,148,57
+955,Eleanor,Gonzalez,F,1958-04-22,London,ON,Sulfa,140,45
+956,Lucas,Robinson,M,1945-12-29,Yellowknife,NT,Eggs,184,105
+957,Isabella,Miller,F,1955-09-04,Whitehorse,YT,None,168,97
+958,Aiden,Garcia,M,1936-10-01,Charlottetown,PE,None,171,123
+959,Ava,Lee,F,1984-01-17,Moose Jaw,SK,Penicillin,175,75
+960,Jackson,Brown,M,1947-03-03,Summerside,PE,None,172,73
+961,Scarlett,Harris,F,1967-05-05,Winnipeg,MB,Latex,147,64
+962,Matthew,Thomas,M,1961-08-21,Kelowna,BC,Penicillin,143,127
+963,Camila,Martinez,F,1967-08-10,Truro,NS,Shellfish,179,103
+964,Noah,Brown,M,1939-05-31,St. John's,NL,Aspirin,190,48
+965,Layla,Taylor,F,1950-10-29,Quebec City,QC,None,168,120
+966,Joseph,Hernandez,M,2005-03-11,Red Deer,AB,Latex,189,59
+967,Luna,Davis,F,1947-08-06,Lethbridge,AB,Latex,164,73
+968,Ethan,Thomas,M,2016-12-01,London,ON,Aspirin,153,123
+969,Scarlett,Garcia,F,1999-07-02,Regina,SK,Milk,186,69
+970,Benjamin,Rodriguez,M,1966-04-14,Regina,SK,Penicillin,184,117
+971,Olivia,Rodriguez,F,1954-06-29,Gatineau,QC,Milk,166,66
+972,James,Davis,M,1982-12-17,Charlottetown,PE,None,200,123
+973,Mia,Jackson,F,1971-03-20,Gatineau,QC,None,171,72
+974,Joseph,Thomas,M,2013-01-12,Winnipeg,MB,None,167,76
+975,Amelia,Hernandez,F,2007-12-01,Charlottetown,PE,None,200,64
+976,Joseph,Lewis,M,1930-11-29,Halifax,NS,Penicillin,170,109
+977,Olivia,Wilson,F,2000-10-02,Moncton,NB,Milk,171,75
+978,Ethan,Moore,M,1932-03-25,Yellowknife,NT,Latex,148,90
+979,Evelyn,Davis,F,1946-04-13,London,ON,None,159,65
+980,Daniel,Ramirez,M,1934-05-19,Dieppe,NB,Aspirin,195,96
+981,Mia,Sanchez,F,1996-06-18,Whitehorse,YT,None,180,45
+982,Ethan,Gonzalez,M,1989-09-25,St. John's,NL,Peanuts,167,79
+983,Eleanor,Moore,F,1967-03-03,Iqaluit,NU,None,196,87
+984,Noah,Taylor,M,1995-04-24,Toronto,ON,Eggs,163,104
+985,Eleanor,Johnson,F,1995-08-06,Regina,SK,None,175,53
+986,David,Thompson,M,1966-09-25,Surrey,BC,Latex,174,59
+987,Layla,White,F,1967-08-24,Iqaluit,NU,Shellfish,162,79
+988,Samuel,Perez,M,2005-11-20,Winnipeg,MB,Sulfa,163,89
+989,Scarlett,Thomas,F,2019-12-23,St. John's,NL,Milk,185,113
+990,David,Lewis,M,1982-06-10,Fredericton,NB,None,200,53
+991,Charlotte,Lewis,F,2012-02-27,Montreal,QC,Eggs,197,67
+992,Jacob,Williams,M,1949-08-16,Surrey,BC,Sulfa,184,63
+993,Layla,Jones,F,1966-08-26,Mount Pearl,NL,Penicillin,158,98
+994,David,Robinson,M,1953-09-09,Fredericton,NB,Eggs,168,127
+995,Emma,Martinez,F,1963-12-04,Montreal,QC,Latex,193,111
+996,James,Wilson,M,1991-07-05,Whitehorse,YT,Milk,177,130
+997,Chloe,Clark,F,2009-11-22,Fredericton,NB,None,148,84
+998,Lucas,Sanchez,M,1976-08-26,Lethbridge,AB,Shellfish,158,51
+999,Isabella,Lopez,F,1981-01-10,Saint John,NB,None,199,65
+1000,David,Martinez,M,1962-09-15,Kelowna,BC,None,197,130
